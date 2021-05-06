@@ -1,1 +1,1 @@
-![https://garbaz.github.io/github-pages-test/]
+[Link](https://garbaz.github.io/github-pages-test/)
